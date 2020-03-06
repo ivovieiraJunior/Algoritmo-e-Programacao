@@ -1,0 +1,4 @@
+A media das parcelas e: 76.82
+A soma das parcelas e: 1424535.00
+O maior valor e: 990.00
+O menor valor e: 22.00

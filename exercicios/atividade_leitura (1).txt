@@ -1,0 +1,31 @@
+1) Faça	um	programa	que	leia o arquivo texto entrada01.txt e em seguida leia o arquivo entrada02.txt (ambos em anexo). 
+
+A pós a leitura, deverá criar um arquivo com o conteúdo dos dois arquivos, sendo que o conteúdo do arquivo entrada02.txt deverá estar no início do novo arquivo. 
+
+2) – Faça	um	programa que leia o arquivo de texto entrada03.txt e gere um novo arquivo de saída, adicionando	o	número	da
+linha	antes	do	conteúdo da	linha. 
+
+Por	exemplo:
+Antes:
+
+Arquivo de texto,
+com
+3 linhas.
+
+Depois:
+
+1: Arquivo de texto,
+2: com
+3: 3 linhas.
+
+3) Faça	um programa que leia o arquivo de texto entrada03.txt e gere um novo arquivo de saída, adicionando	o	número	da
+linha, invertendo as colunas Empresa e Função. 
+
+4) Faça	um programa que leia o arquivo de texto entrada04.txt e calcule a média das parcelas (de todas as UFs), a soma das pacelas, a maior e a menor parcela. Mostrar o resultado na tela de em um arquivo de saída. 
+
+
+5) DESAFIO: Faça	um programa que leia o arquivo de texto entrada04.txt e mostre quantas vezes cada UF aparece no arquivo. 
+
+
+
+
